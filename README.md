@@ -6,3 +6,4 @@ Version 1.3
 <a href="Chapter02.html">Chapter 2</a>
 <a href="Chapter03.html">Chapter 3</a>
 <a href="Chapter04.html">Chapter 4</a>
+<a href="AlternativeEnding.html">Alternative Ending</a>
