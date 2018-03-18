@@ -10,11 +10,11 @@ Version 1.3
 [Chapter 4](Chapter04.html)
 [Alternative Ending](AlternativeEnding.html)
 
-#Github Page Link
+##Github Page Link
 [Github Pages Link](https://slatz.github.io/year3-story-2018/)
 
-#Issues Page
+##Issues Page
 [Issues](https://github.com/Slatz/year3-story-2018/issues)
 
-#Releases Page
+##Releases Page
 [Releases](https://github.com/Slatz/year3-story-2018/releases)
