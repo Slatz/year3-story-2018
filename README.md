@@ -18,4 +18,3 @@ Version 1.3
 
 #Releases Page
 [Releases](https://github.com/Slatz/year3-story-2018/releases)
-
